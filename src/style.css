@@ -53,3 +53,20 @@ nav a {
     padding: 0.5rem;
     border-radius: .5rem;
 }
+
+main {
+    margin: 3rem;
+}
+
+main article {
+    margin-bottom: 3rem;
+}
+
+article .text {
+    line-height: 2.5rem;
+}
+
+h2 {
+    margin-bottom: 2rem;
+    letter-spacing: .4rem;
+}
